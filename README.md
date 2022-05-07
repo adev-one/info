@@ -1,6 +1,6 @@
 <img alt="ADValentina1" title="#ADValentina1" src="./assets/banner.png" />
 <h1 align="center">
-    🔥 ADVEONE 🔥
+    🔥 ADEVONE 🔥
 </h1>
 <p align="center">🚀 projeto proporcionado pela igreja AD Valentina 1, que visa apresentar programação para os jovens e adolescentes</p>
 
