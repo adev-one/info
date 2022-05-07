@@ -9,7 +9,7 @@
 - [Git](https://git-scm.com/downloads)
 - [GitHub](https://github.com/)
 - [VSCode](https://code.visualstudio.com/)
-- [Node](https://nodejs.org/en/download/)
+- [Node](https://nodejs.org/pt-br/download/)
 - [JSFiddle](https://jsfiddle.net/)
 
 ## 📚 Aulas
