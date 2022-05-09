@@ -7,7 +7,7 @@
 
 ## 📺 Você precisa assistir:
 
- - <a href="https://www.youtube.com/watch?v=xajcV4lwY3Q"> O inicio dos computadores | Ep.1</a>
+ - <a target="_blank" href="https://www.youtube.com/watch?v=xajcV4lwY3Q"> O inicio dos computadores | Ep.1</a>
  - <a href="https://www.youtube.com/watch?v=uQPiyxoCk9E"> Computadores Eletricos | Ep.2</a>
  
  - <a href="https://www.youtube.com/watch?v=F74GKCLXUWM"> Como a Internet chega na minha casa?</a>
