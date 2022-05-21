@@ -7,3 +7,5 @@
 ## 📺 Você precisa assistir:
 
 ## 🔗 Links Importantes
+
+- [Exemplo feito em aula](./example.html)
